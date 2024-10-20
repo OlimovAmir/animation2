@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    margin-left: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    transition: all 0.5s;
+
+}
+
+.wrapper {
+    border: 2px solid rgb(160, 6, 6);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: inset 0 0 15px 10px grey;
+}
+
+.logo {
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+
+.menu a:hover {
+    background-color: rgb(123, 255, 0);
+}
+
+.logo:hover {
+    background-color: blueviolet;
+}
+
+.main {
+    background-repeat: no-repeat;
+    height: 73%;
+    background-size: cover;
+}
+.MainFooter {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    box-shadow: inset 0 0 15px 10px  rgb(102, 92, 97);
+    align-items: center; 
+}
+
+.mainAnim3{
+    background-repeat: no-repeat;
+    height: 73%;
+}
+.mainAnim2 {
+    background-repeat: no-repeat;
+    height: 73%;
+}
+
+.mainAnim1 {
+    background-repeat: no-repeat;
+    height: 73%;
+}
+
+.mainAnim1 {
+    background-repeat: no-repeat;
+    height: 73%;
+    background-size: cover;
+}
+
+.footerAnim3 {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    box-shadow: inset 0 0 15px 10px  rgb(102, 92, 97);
+    align-items: center;
+}
+.mainAnim3 {
+    background-repeat: no-repeat;
+    height: 73%;
+    background-size: cover;
+}
+.footerAnim3{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    box-shadow: inset 0 0 15px 10px  rgb(102, 92, 97);
+    align-items: center;
+}
+.mainAnim1 {
+    background-repeat: no-repeat;
+    height: 73%;
+    background-size: cover;
+}
+.FooterAnim1 {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    box-shadow: inset 0 0 15px 10px  rgb(216, 7, 111);
+    align-items: center;
+}
+.mainAnim2 {
+    background-repeat: no-repeat;
+    height: 73%;
+    background-size: cover;
+}
+.FooterAnim2 {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    box-shadow: inset 0 0 15px 10px  rgb(41, 16, 185);
+    align-items: center;
+}
