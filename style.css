@@ -152,3 +152,11 @@ body {
         background-color: #e74c3c;
     }
  }
+ .anim{
+    margin-left: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-radius: 10px;;
+ }
