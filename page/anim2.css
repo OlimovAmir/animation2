@@ -1,0 +1,16 @@
+.mainAnim2 {
+    background-repeat: no-repeat;
+    height: 73%;
+}
+.mainAnim2 {
+    background-repeat: no-repeat;
+    height: 73%;
+    background-size: cover;
+}
+.FooterAnim2 {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    box-shadow: inset 0 0 15px 10px  rgb(41, 16, 185);
+    align-items: center;
+}

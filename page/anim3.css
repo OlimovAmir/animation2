@@ -1,0 +1,19 @@
+.footerAnim3 {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    box-shadow: inset 0 0 15px 10px  rgb(102, 92, 97);
+    align-items: center;
+}
+.mainAnim3 {
+    background-repeat: no-repeat;
+    height: 73%;
+    background-size: cover;
+}
+.footerAnim3{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    box-shadow: inset 0 0 15px 10px  rgb(102, 92, 97);
+    align-items: center;
+}
